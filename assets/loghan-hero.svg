@@ -11,7 +11,7 @@
   <rect x="0" y="0" width="220" height="288" fill="url(#shine)" opacity=".35"/>
   <g font-family="'DejaVu Sans Mono', monospace">
    <text x="39" y="66" font-size="16" fill="#aaa">~/profile</text>
-   <text x="39" y="113" font-weight="bold" font-size="40" fill="#fff">lizhy</text>
+   <text x="39" y="113" font-weight="bold" font-style="italic" font-size="40" fill="#fff">loghan</text>
    <text x="39" y="139" font-size="15" fill="#d0d0d0">Computer science student · Developer</text>
    <text x="39" y="168" font-size="16" fill="#fff">Building software. Exploring systems.</text>
    <text x="39" y="191" font-size="16" fill="#dedede">Learning through real projects and CTFs.</text>
