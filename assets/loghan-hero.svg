@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 288" width="840" height="288" role="img" aria-label="Loghan developer profile banner">
+ <defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101010"/><stop offset=".5" stop-color="#222"/><stop offset="1" stop-color="#050505"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#444" stroke-opacity=".33" stroke-width=".8"/></pattern>
+  <linearGradient id="shine"><stop stop-color="#555" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".15"/><stop offset="1" stop-color="#555" stop-opacity="0"/></linearGradient>
+  <clipPath id="clip"><rect x="1" y="1" width="838" height="286" rx="20"/></clipPath>
+ </defs>
+ <g clip-path="url(#clip)">
+  <rect width="840" height="288" fill="url(#bg)"/><rect width="840" height="288" fill="url(#grid)"/>
+  <path d="M0 44 H145 M18 57 H100 M15 24 H210 M560 25 H810" stroke="#aaa" opacity=".25" fill="none"/>
+  <rect x="0" y="0" width="220" height="288" fill="url(#shine)" opacity=".35"/>
+  <g font-family="'DejaVu Sans Mono', monospace">
+   <text x="39" y="66" font-size="16" fill="#aaa">~/profile</text>
+   <text x="39" y="113" font-weight="bold" font-size="40" fill="#fff">LOGHAN</text>
+   <text x="39" y="139" font-size="15" fill="#d0d0d0">Computer science student · Developer</text>
+   <text x="39" y="168" font-size="16" fill="#fff">Building software. Exploring systems.</text>
+   <text x="39" y="191" font-size="16" fill="#dedede">Learning through real projects and CTFs.</text>
+   <text x="39" y="224" font-size="14" fill="#aaa">Python  /  JavaScript  /  Godot  /  Linux</text>
+  </g>
+  <path d="M465 252 C510 241 530 256 570 245 S630 240 659 247 S718 264 746 233 S791 239 835 219" stroke="#777" stroke-width="2" fill="none" stroke-dasharray="5 7"/>
+  <circle cx="570" cy="245" r="4" fill="#fff"/><circle cx="659" cy="247" r="4" fill="#eee"/><circle cx="746" cy="233" r="4" fill="#fff"/>
+  <rect x="711" y="54" width="88" height="88" rx="20" fill="#090909" stroke="#9a9a9a"/>
+  <path d="M727 99 h16 l9-16 11 29 10-19 h12" stroke="#fff" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <g stroke="#bbb" stroke-opacity=".22" fill="none"><circle cx="755" cy="98" r="63"/><circle cx="755" cy="98" r="73"/></g>
+ </g>
+ <rect x="1" y="1" width="838" height="286" rx="20" fill="none" stroke="#666" stroke-opacity=".55" stroke-width="2"/>
+</svg>
