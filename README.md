@@ -8,6 +8,7 @@
 <a href="https://github.com/loghanmrsn?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-222222?style=for-the-badge&logoColor=white" alt="Repositories" /></a>
 <a href="https://github.com/loghanmrsn/Console-logiciel"><img src="https://img.shields.io/badge/CONSOLE%20CIEL-444444?style=for-the-badge" alt="Console CIEL" /></a>
 <a href="https://loghanmrsn.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-666666?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://loghanmrsn.github.io/generateur-mot-de-passe/"><img src="https://img.shields.io/badge/PASSWORD%20GENERATOR-888888?style=for-the-badge" alt="Password generator — SecurePass" /></a>
 <img src="https://img.shields.io/badge/NEXT%20PROJECT-bbbbbb?style=for-the-badge" alt="Next project" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1300&color=DADADA&center=true&vCenter=true&width=700&lines=Building+software+and+learning+every+day;Web+development+%7C+Godot+%7C+Python;Curious+about+cybersecurity+and+CTFs" alt="Animated introduction" />
